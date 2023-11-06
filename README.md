@@ -1,2 +1,2 @@
 # Tech-Shop
-Link do site: https://arthuur-m.github.io/Tech-Shop/
+Link do site: https://Arthur-lMachado.github.io/Tech-Shop/
